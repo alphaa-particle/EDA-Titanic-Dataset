@@ -7,7 +7,8 @@ This repository contains an Exploratory Data Analysis (EDA) of the Titanic datas
 The dataset used in this analysis is the Titanic dataset from Kaggle, which includes information about passengers such as age, gender, class, fare, and survival status.  
 
 ## Contents  
-- **`Titanic_EDA.ipynb`** – Jupyter Notebook containing the full exploratory data analysis.  
+- **`Titanic_EDA.ipynb`** – Jupyter Notebook containing the full exploratory data analysis.
+- **`Modified_Titanic.csv`** – csv downloaded via Kaggle for the analysis.  
 - **`README.md`** – Documentation for the repository.  
 
 ## Key Steps in Analysis  
