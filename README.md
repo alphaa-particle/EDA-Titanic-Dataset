@@ -1,9 +1,5 @@
 # 🧊 Titanic Survival Analysis & Machine Learning Prediction
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Titanic_%281912%29_3.jpg" width="500"/>
-</div>
-
 ---
 
 ## 📌 Overview
